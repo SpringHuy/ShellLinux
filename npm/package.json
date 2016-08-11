@@ -1,0 +1,18 @@
+{
+  "name": "@springhuy/npm",
+  "version": "1.0.0",
+  "description": "just start",
+  "main": "index.js",
+  "scripts": {
+    "test": "hihi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./git1"
+  },
+  "keywords": [
+    "hihi"
+  ],
+  "author": "springhuy",
+  "license": "ISC"
+}
